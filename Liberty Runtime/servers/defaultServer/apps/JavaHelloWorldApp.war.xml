@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="C:\Users\Lal Prasath\Downloads\java-helloworld-master\java-helloworld-master\target\m2e-wtp\web-resources" targetInArchive="/"/>
+    <dir sourceOnDisk="C:\Users\Lal Prasath\Downloads\java-helloworld-master\java-helloworld-master\src\main\webapp" targetInArchive="/"/>
+    <dir sourceOnDisk="C:\Users\Lal Prasath\Downloads\java-helloworld-master\java-helloworld-master\target\classes" targetInArchive="/WEB-INF/classes"/>
+    <dir sourceOnDisk="C:\Users\Lal Prasath\Downloads\java-helloworld-master\java-helloworld-master\target\test-classes" targetInArchive="/WEB-INF/classes"/>
+</archive>

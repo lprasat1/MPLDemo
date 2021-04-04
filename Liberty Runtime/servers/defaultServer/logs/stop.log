@@ -1,0 +1,13 @@
+
+arg0=--batch-file=--stop
+arg1=stop
+arg2=defaultServer
+exit=1
+
+                 Java home:  C:\Program Files\Java\jre1.8.0_281
+              Install root:  C:/Users/Lal Prasath/Downloads/wlp-webProfile8-20.0.0.2/wlp/
+          System libraries:  C:/Users/Lal Prasath/Downloads/wlp-webProfile8-20.0.0.2/wlp/lib/
+                 User root:  C:/Users/Lal Prasath/Downloads/wlp-webProfile8-20.0.0.2/wlp/usr/
+                    Config:  C:/Users/Lal Prasath/Downloads/wlp-webProfile8-20.0.0.2/wlp/usr/servers/defaultServer/
+                    Output:  C:/Users/Lal Prasath/Downloads/wlp-webProfile8-20.0.0.2/wlp/usr/servers/defaultServer/
+
